@@ -2,9 +2,11 @@ import java.util.Scanner;
 
 public class binarySearch {
 	public static void main(String[] args) {
+		
 		int[] arr= {23,56,89,90,165,174,633};
 		
 		Scanner scan=new Scanner(System.in);
+		
 		int low=0;
 		int high=arr.length-1;
 		System.out.print("Enter key to search : ");

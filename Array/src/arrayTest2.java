@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class array2 {
+public class arrayTest2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int[] arr=new int[3];
 		arr[0]=12;
 		arr[1]=10;
